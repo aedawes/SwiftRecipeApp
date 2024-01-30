@@ -1,11 +1,11 @@
 # RecipeApp
 ### Anaïs dawes
 
-This is my recipe app. In this app you are able to keep track of all of your recipes.
+This is my recipe app built using Swift. It is the second project I have done using this programming language and overall I am fairly happy with what I have produced. This app queries a internal database using all four CRUD operations. Ideally, this database would be a real database running on a server but as for the scope of this project, that was not included. In this app, a user can create recipies, delete recipes, update a recipe, and display them. It uses the split screen view to navigate and the UI is responsive to both smaller iPhone devices as well as larger iPad devices.
 
 ## What went well
 - I successfully used SwiftData to keep persistant data on the app
-- I Learned how to do Markdown
+- I Learned how to do Markdown in Swift
 - I created a beautiful UI
 - I got really great practice on clean coding practices
 - I learned a lot about Swift/Apple form View options (like Picker)
@@ -21,7 +21,4 @@ This is my recipe app. In this app you are able to keep track of all of your rec
 - I still would like to use more constants to keep things cleaner
 - I had trouble implementing some things like updating categories due to my complicated structure
 - I would like to have used an MVVM structure
-
-### Overall Thoughts
-
-I feel like I deserve an A based on how much I feel I have progressed through doing another project.  I put a lot of effort into this, trying my best to get what I needed and more out of it.  I think this was a great project and very customizable to each individuals goals as a programmer.  I am excited to try more of my own swift projects after this and really start to fine-tune my skills!
+- It would be nicer if the user did not have to know markdown and could add lists of ingredients or directions individually
